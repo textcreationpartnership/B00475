@@ -1,0 +1,243 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A most certaine report of a monster borne at Oteringham in Holdernesse, the 9. of Aprill last past. 1595. Also of a most strange and huge fish, which was driuen on the sand at Outhorn in Holdernesse in February not passing two months before this monster was brought into the world, and within 4 miles distance. Both to be auerred by the credible testimonie of diuers gentlemen of worship, and others, now being within this citie..</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1595</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00475</idno>
+            <idno type="STC">STC 18895.5</idno>
+            <idno type="STC">ESTC S125900</idno>
+            <idno type="EEBO-CITATION">56572900</idno>
+            <idno type="OCLC">ocm 56572900</idno>
+            <idno type="VID">181000</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00475)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181000)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2152:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A most certaine report of a monster borne at Oteringham in Holdernesse, the 9. of Aprill last past. 1595. Also of a most strange and huge fish, which was driuen on the sand at Outhorn in Holdernesse in February not passing two months before this monster was brought into the world, and within 4 miles distance. Both to be auerred by the credible testimonie of diuers gentlemen of worship, and others, now being within this citie..</title>
+                  <author>Duncalfe, V.</author>
+               </titleStmt>
+               <extent>[11] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by P.S. and are to be sold by T. Millington.,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>[1595].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Black letter; initials; tail-piece.</note>
+                  <note>First part signed: V. Duncalfe.</note>
+                  <note>Signatures: A⁴ B².</note>
+                  <note>Imperfect: stained, creased and torn, with loss of text.</note>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Abnormalities, Human --  England --  Early works to 1800.</term>
+               <term>Signs and wonders --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:181000:1" rendition="simple:additions"/>
+            <p>Moſt certaine report of a monſter borne at Oteringham in Holderneſſe, the 9. of Aprill laſt paſt. 1595.</p>
+            <p>Alſo of a moſt ſtrange and huge fiſh, which was driuen on the ſand at Outhorn in Holderneſſe in February not paſſing two months before this mon<g ref="char:EOLhyphen"/>ſter was brought into the world, and within 4 miles diſtance.</p>
+            <p>Both to be auerred by the credible teſtimonie of di<g ref="char:EOLhyphen"/>uers gentlemen of worſhip, and others, now being within this Citie.</p>
+            <figure>
+               <figDesc>monster</figDesc>
+            </figure>
+            <p>Printed by P.S. and are to be ſold by T. Millington.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:181000:2" rendition="simple:additions"/>
+            <pb facs="tcp:181000:2"/>
+            <head>¶ A letter ſent from Roſſe by a <hi>Gentleman of worſhip to his frend at</hi> Oteringham to be certified of the <hi>truth of the ſhape of the Childe</hi> borne there.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">S</seg>IR</salute>
+            </opener>
+            <p>vnderſtanding that there is a monſtrus child Borne in your pariſhe of Oteringham to the great admiration of the people that haue ſeen it, being a thing as I take it ſent of God to fore<g ref="char:EOLhyphen"/>warne vs of our wickednes. And hearing diuers reportes thereof, I deſire you to do me that fauour as to ſend me in writing the true forme of the monſter, the day of the birth thereof, and the names of the parents. I make bould with you, but if it like you to doe mee this fauour, you ſhall command mee any thing that lieth in my po<g ref="char:EOLhyphen"/>wer to performe.</p>
+            <p>Thus commending my ſelfe vnt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou, I commit you to God:</p>
+            <closer>
+               <dateline>From Roſſe <date>this <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ſent. Tueſday being the 6. of May. 1595.</date>
+               </dateline>
+               <signed>Your frend to vſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> M.S.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:181000:3"/>
+            <pb facs="tcp:181000:3"/>
+            <head>To my very good frend M.S. <hi>at Roſſe</hi>
+            </head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">S</seg>IR</salute>
+            </opener>
+            <p>hauing receaued your let<g ref="char:EOLhyphen"/>ter, I thought it no leſſe then my duety too performe and grau<g ref="char:cmbAbbrStroke">̄</g>t your reaſonable requeſt wherefore it may pleaſe you to vnderſtand that the ninthe of April laſt paſt this admired Monſter was brought into the world, to the great amaſement of all thoſe that beheld it, but to obſerue decorum it is requiſit before I ſpeake or write thereof, that I ſhould ſhewe ſome circumſtances whiche went before the birthe thereof thereby to make the matter more plaine vnto you and your frendes.</p>
+            <p>There is in our pariſh of <hi>Oteringham</hi> a ma<g ref="char:cmbAbbrStroke">̄</g> of honeſt &amp; good diſpoſition named <hi>Iohn Raw<g ref="char:EOLhyphen"/>ling,</hi> who hath to wife one <hi>Elizabeth Rawling,</hi> A woman of honeſt life and conuerſation, who being conceaued with childe accompliſhed her daies with much griefe: At length the time of her trauell being come, ſhe was the ſeuenth of Aprill laſt, ſafly deliuered of a iolly
+<pb facs="tcp:181000:4"/>woman child, of right ſhape and comely pro<g ref="char:EOLhyphen"/>portion, which child is now aliue, wherat the parents and neyghbors reioyced, thinking al thinges had ben well and their buſines ended but ſo it fell not out. For you ſhall vnderſtand that after the former perill was paſt, newe panges began to ariſe vpon the ſorrowful wo<g ref="char:EOLunhyphen"/>man in ſuch ſort that it cauſed a lamentation among all the wiues. Thus with painfull throwes ſhe endured two daies more, and at the laſt was releaſed of her painfull burden, the ninth day of the ſame moneth ſhe brought forth this monſterous child, a terror to all the behoulders. The head wherof was like a Con<g ref="char:EOLunhyphen"/>ny: The handes was like a mole: The bodie, legges, &amp; feete like a woman, hauing alſo the preueties like a woman, it had no heare on the head or other partes, and the ſkinne was very blacke and feareful to the eyes of the be<g ref="char:EOLhyphen"/>holders, as M. <hi>Latham</hi> M. <hi>Browne</hi> our mini<g ref="char:EOLhyphen"/>ſter with diuers others which haue ſeene the ſame can certifie you.</p>
+            <p>Many times hath the Lord ſhewed vs his wonders, and maruelous workes, to be a fore warning of the puniſhments whiche he hath prepared for ſin: What a number of ſtraunge tokens, monſterus birthes, blazing ſtarres, earthquakes, dreadful ſignes in the ayer, and fearefull ſtormes and tempeſts to moue vs to repentance and amendment of our wicked
+<pb facs="tcp:181000:4"/>liues hath he ſhewen in our land, and yet few or none regardes it. Let no man thinke that ſuch things do come by chance or fortune, but that they are appointed to be meſſengers of enſuing plagues which are like to fall vpon vs, except with repenting harts we turne vn to our Godand forſake our wicked waies.</p>
+            <closer>
+               <signed>Yours to vſe <hi>V. Duncalfe.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="account_of_a_monstrous_fish">
+            <pb facs="tcp:181000:5"/>
+            <head>Here followeth the deſcription of a monſtrous fiſhe which was driuen on the ſhore at Outhorn in Holdernes the 12. of February 1595. Not paſſing 2. mo<g ref="char:EOLhyphen"/>nethes before this monſter was brought into the world.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Uch is the mercifullneſſe of our God that he wil ne<g ref="char:EOLunhyphen"/>uer puniſh any people or nation without warning firſt ſent vnto them. And therefore, the Prophetes in old time cried vnto the people before any deſtru<g ref="char:EOLhyphen"/>ction fell vpon them. Many other meanes hath the Lord wrought to forewarne the children of men of enſuing euilles. Before the deſtruction of <hi>Ieruſalem</hi> a Comet like a ſworde hounge ouerthe cittie the ſpace of our whole yeare.</p>
+            <p>In the night time a light was ſeene in the temple the ſpace of halfe an hower.</p>
+            <p>Alſo a cowe being carried into the temple for ſacrifice, calued a Lambe in ſight of al the people.</p>
+            <p>A great and mightie gate of braſſe, which twentie men could ſcantly ſhut opned it ſelfe alone.</p>
+            <p>
+               <pb facs="tcp:181000:5"/>
+An army of ſoldiers was ſeene in the cloudes. And a voice was harde in the Temple that ſaid, <hi>Let vs go hence.</hi> Thus was <hi>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> warned, that by repentance it might eſcape the intended deſtruction.</p>
+            <p>The Lord be mercifull to this our Countrey of England, vnto whom our moſt louing God hathe giuen many warninges, yea as many as euer <hi>Ieruſalem</hi> had, and yet we continue in our former ſinnes.</p>
+            <p>The Ayer hath beene corrupted becauſe of ſin, the Skie hath ſhotte foorth fiery thunder<g ref="char:EOLhyphen"/>boltes and l<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ings becauſe of ſin, ſtraung commes hath <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>eatned deſtruction for our ſinne, the earth hath quaked becauſe of the wrath of God for ſinne, and mountaines haue remoued out of their places to giue vs<g ref="char:punc">▪</g> war<g ref="char:EOLhyphen"/>ning to remoue from our ſinne.</p>
+            <p>The Lord hath ſent vs ſtraunge and mon<g ref="char:EOLhyphen"/>ſterous birthes, becauſe of our monſterous ſinne. The ennemie hath threatned warre a<g ref="char:EOLhyphen"/>gainſt vs, the plague of peſtilence hath affli<g ref="char:EOLhyphen"/>cted and conſumed vs, dearth and famine hath aſſailed vs, and all to driue vs from our ſins: yet who hath regarded Gods threates, or beene amended by his puniſhmentes.</p>
+            <p>One token more the Lord hath yet ſent vs fro<g ref="char:cmbAbbrStroke">̄</g> out the raging ſea, to preach repentance vnto vs: ſeeing that neither by the heauens
+<pb facs="tcp:181000:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:181000:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:181000:7"/>nor earth, wee will take admonition, let vs therefore conſider it with heedfulnes &amp; turne <unclear>to the</unclear> Lord with ſpedines.</p>
+            <p>At <hi>Outthorne</hi> in Holderneſſe the <hi>12.</hi> of Fe<g ref="char:EOLhyphen"/>bruarie laſt paſt, by the meanes of wind and weather a wonderfull huge fiſh was driuen on the ſandes, of ſuch hugeneſſe as hath not been ſeene, being a fiſh of an vnknowne name. This fiſh was in length <hi>19.</hi> yeardes and three quarters, and in thickneſſe at the middle <hi>10.</hi> yeardes good meaſure. His taile in bredthe from the one web vnto the other was <hi>16</hi> foot: his head was in faſhion like a great wool<g ref="char:EOLhyphen"/>ſacke: hauing very little eyes in reſpect of his great head: his neather Iawe being little did fall as it ſeemed in a trough much ſhort of the ende of his vpper Iawe, and very little in re<g ref="char:EOLhyphen"/>ſpecte of the vpper, &amp; yet of ſuch bignes that the very bone of the lower Iawe, was <hi>36.</hi> in<g ref="char:EOLhyphen"/>ches about, and the leaſt tooth he had was <hi>10.</hi> inches long and <hi>6.</hi> about.</p>
+            <p>The people of the countrey came in great a<g ref="char:EOLhyphen"/>boundance to behold this ſtraunge fiſh, mar<g ref="char:EOLunhyphen"/>ueling thereat, not knowing what to ſaye or iudge therof, but onely reſolueth them ſelues that it was ſent of God to ſome great pur<g ref="char:EOLhyphen"/>poſe.</p>
+            <p>Thus within foure miles ſpace hapened theſe two ſtraunge thinges, within two mo<g ref="char:EOLhyphen"/>nethes
+<pb facs="tcp:181000:7"/>the one of the other. The Lord grau<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> we may take warning thereby, to turne <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to our God that he may turne his greeuou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> plagues from vs, which our wickednes hath <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> iuſtly procured.</p>
+            <p>This Fiſh was meaſured by M. <hi>Richard<g ref="char:EOLhyphen"/>ſon.</hi> deane of Holderneſſe in the p<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ence of
+<list>
+                  <item>M. Houlden parſon of Roſſe.</item>
+                  <item>M. H. parſon of Patrington.</item>
+                  <item>M. Aſhton Parſon of Tunſton.</item>
+                  <item>M. Fraunces Leedes Gentleman.</item>
+               </list>
+            </p>
+            <pb facs="tcp:181000:8"/>
+            <pb facs="tcp:181000:8"/>
+            <pb facs="tcp:181000:9"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:181000:9"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
